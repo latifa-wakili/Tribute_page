@@ -1,37 +1,35 @@
-.container{
+.container {
    background-color: rgb(236, 234, 233);
    /* width: 100%; */
    height:100%;
    margin: 30px 10px;
    border-radius: 10px;
 }
-.container h2{
+.container h2 {
    text-align: center;
    padding: 30px;
    font-size: 40px;
 }
-.container p{
+.container p {
    text-align: center;
 }
-
-.image{
+.image {
    background-color: white;
    height: 710px;
    margin: 15px;
 }
-.image img{
+.image img {
    transform: translate(70px,30px);
 }
-.image p{
+.image p {
    margin-top: 40px;
 }
-
-*{
+* {
    margin:0;
    padding: 0;
    box-sizing: border-box;
 }
-.contain h3{
+.contain h3 {
    text-align: center;
    padding: 20px;
    font-family: sans-serif;
@@ -40,9 +38,14 @@
    display: flex;
    justify-content: center;
    align-items: center;
-
 }
-.listItem li{
+.listItem li {
    padding: 5px 0;
-
+}
+.listItem p {
+   margin-top: 40px;
+}
+.contain .mainList {
+   margin-left: 290px;
+   margin-top: 20px;
 }
