@@ -17,18 +17,29 @@
   text-align: center;
 }
 
-.image {
+#img-div {
   background-color: white;
-  height: 710px;
+  height: auto;
   margin: 15px;
 }
 
-.image img {
+/* img{
+  display: block;
+} */
+
+#img-div img {
   transform: translate(70px, 30px);
 }
-
-.image p {
+#img-div #image{
+  max-width: 100%;
+}
+#img-div p {
   margin-top: 40px;
+}
+#image{
+  height: auto;
+  max-width: 100%;
+
 }
 
 * {
