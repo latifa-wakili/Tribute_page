@@ -25,10 +25,10 @@ container h2 {
 ## Demo 📸
 
 
-![Demo]
 https://latifa-wakili.github.io/Tribute_page/
-
-(tribut.png)
+![Demo](tribut.png)
+)
+## Technologies Used 🛠️
 
 ## Technologies Used 🛠️
 
