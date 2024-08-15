@@ -27,6 +27,7 @@ container h2 {
 
 ![Demo]
 https://latifa-wakili.github.io/Tribute_page/
+
 (tribut.png)
 
 ## Technologies Used 🛠️
